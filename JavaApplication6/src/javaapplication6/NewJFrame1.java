@@ -52,7 +52,7 @@ public class NewJFrame1 extends javax.swing.JFrame{
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jLabel1.setText("Name");
+        jLabel1.setText("Nme");
 
         jLabel3.setText("Gender");
 
